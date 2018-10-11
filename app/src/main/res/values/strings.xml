@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioRecord</string>
+    <string name="audiostart">START</string>
+    <string name="audiostop">STOP</string>
+    <string name="cancel">CANCEL</string>
+    <string name="send">SEND</string>
+</resources>
