@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnStop.setOnClickListener(this);
         imageViewPlay.setOnClickListener(this);
         send.setOnClickListener(this);
-        //cancel.setOnClickListener(this);
+        cancel.setOnClickListener(this);
         initDialog();
     }
 
