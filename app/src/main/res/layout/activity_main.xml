@@ -147,7 +147,6 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginStart="5dp"
                     android:textColor="@android:color/white"
-                    android:visibility="gone"
                     />
             </LinearLayout>
 
